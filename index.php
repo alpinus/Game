@@ -7,9 +7,8 @@
         <link rel="stylesheet" href="css/main_style.css" type="text/css"/>
     </head>
     <body>
-       
             <div id="header">
-                <div id="header_background"></div>
+                <div id="header_background">Dsdfsdf</div>
             </div>
              <div id="main">
             <div id="content">Контент</div>
