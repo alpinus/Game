@@ -8,7 +8,7 @@
     </head>
     <body>
             <div id="header">
-                <div id="header_background">Dsdfsdf</div>
+                <div id="header_background">change</div>
             </div>
              <div id="main">
             <div id="content">Контент</div>
