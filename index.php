@@ -7,8 +7,9 @@
         <link rel="stylesheet" href="css/main_style.css" type="text/css"/>
     </head>
     <body>
+       
             <div id="header">
-                <div id="header_background">chafnge</div>
+                <div id="header_background"></div>
             </div>
              <div id="main">
             <div id="content">Контент</div>
